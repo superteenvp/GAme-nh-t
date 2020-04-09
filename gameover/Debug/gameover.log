@@ -1,0 +1,13 @@
+﻿  gameover.cpp
+D:\visual studio\gameover\gameover\gameover.cpp(24,64): warning C4305: 'argument': truncation from 'int' to 'Uint8'
+D:\visual studio\gameover\gameover\gameover.cpp(24,61): warning C4309: 'argument': truncation of constant value
+D:\visual studio\gameover\gameover\gameover.cpp(24,56): warning C4309: 'argument': truncation of constant value
+D:\visual studio\gameover\gameover\gameover.cpp(24,51): warning C4309: 'argument': truncation of constant value
+D:\visual studio\gameover\gameover\gameover.cpp(24,46): warning C4309: 'argument': truncation of constant value
+D:\visual studio\gameover\gameover\gameover.cpp(68,60): warning C4305: 'argument': truncation from 'int' to 'Uint8'
+D:\visual studio\gameover\gameover\gameover.cpp(68,57): warning C4309: 'argument': truncation of constant value
+D:\visual studio\gameover\gameover\gameover.cpp(68,52): warning C4309: 'argument': truncation of constant value
+D:\visual studio\gameover\gameover\gameover.cpp(68,47): warning C4309: 'argument': truncation of constant value
+D:\visual studio\gameover\gameover\gameover.cpp(68,42): warning C4309: 'argument': truncation of constant value
+D:\visual studio\gameover\gameover\gameover.cpp(30): warning C4715: 'InitData': not all control paths return a value
+  gameover.vcxproj -> D:\visual studio\gameover\Debug\gameover.exe
